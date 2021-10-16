@@ -27,3 +27,7 @@ open your terminal/command line. and run
 and open another one
 
 ```> python client.py```
+
+heres an example to use
+
+![](https://github.com/jusondac/Multichatroom/blob/master/src/multichatroom%20python.gif)
